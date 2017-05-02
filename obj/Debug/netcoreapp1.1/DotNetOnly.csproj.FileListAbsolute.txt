@@ -1,0 +1,8 @@
+/Users/bmcalister/Documents/DEV/DotNetOnly/bin/Debug/netcoreapp1.1/DotNetOnly.deps.json
+/Users/bmcalister/Documents/DEV/DotNetOnly/bin/Debug/netcoreapp1.1/DotNetOnly.runtimeconfig.json
+/Users/bmcalister/Documents/DEV/DotNetOnly/bin/Debug/netcoreapp1.1/DotNetOnly.runtimeconfig.dev.json
+/Users/bmcalister/Documents/DEV/DotNetOnly/bin/Debug/netcoreapp1.1/DotNetOnly.dll
+/Users/bmcalister/Documents/DEV/DotNetOnly/bin/Debug/netcoreapp1.1/DotNetOnly.pdb
+/Users/bmcalister/Documents/DEV/DotNetOnly/obj/Debug/netcoreapp1.1/DotNetOnly.AssemblyInfo.cs
+/Users/bmcalister/Documents/DEV/DotNetOnly/obj/Debug/netcoreapp1.1/DotNetOnly.dll
+/Users/bmcalister/Documents/DEV/DotNetOnly/obj/Debug/netcoreapp1.1/DotNetOnly.pdb
